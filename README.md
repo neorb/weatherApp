@@ -6,7 +6,7 @@ Build a weather lookup app that allows user to lookup weather for a given city.
 User will open the app and enter a city name. For the given city, app will load the forecast using
 the forecast API provided by https://openweathermap.org/.
 
-API: https://api.openweathermap.org/data/2.5/forecast?q={city}&amp;appid={api key}
+API: https://api.openweathermap.org/data/2.5/forecast?q={city}&amp;appid={apiKey}
 
 You can use API key: 65d00499677e59496ca2f318eb68c049
 
